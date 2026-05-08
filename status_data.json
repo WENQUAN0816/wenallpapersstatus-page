@@ -19,7 +19,7 @@
       "Wanbao Ge"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-08 Indoor and Built Environment / ScholarOne draft is open at mc.manuscriptcentral.com/ibe. LaTeX main document/source files and title page were uploaded through the ScholarOne LaTeX workflow; local package is synced at repo commit 3ad9fc0. Step 3 keywords were saved. Step 4 authors were corrected to the source baseline: Dr. Quan Wen, Wanbao Ge (Corresponding Author), and Dr. Yanting Wu; Quan portal email remains the account email wenquan@student.usm.my. Step 5 cover-letter text, funding (Henan Provincial Federation of Social Sciences, SKL2022608), figure/table/word counts, conflict=no, special issue=no, conference=no, contribution statement, journal-reason, data/materials statement, previous submission=no, and submitting-agent=no were saved. Current blockers before continuing to Review & Submit: required policy/legal confirmations for solely submitted to this journal, research meeting ethical guidelines, and AI-generated content disclosure; server-generated reviewer PDF still needs final verification. 未最终提交。IBE / ScholarOne 草稿已推进到 Step 5 并保存；LaTeX 主文档/源文件已按 ScholarOne LaTeX 流程上传，本地包 commit 3ad9fc0。作者页已修正为 Dr. Quan Wen、Wanbao Ge（通讯作者）、Dr. Yanting Wu；Step 5 已保存 cover letter 文本、基金、图表/字数和客观问卷。当前仅剩 sole submission、ethical guidelines、AI-generated content 三个政策/法律确认项需用户确认后才能继续到 Review & Submit，并仍需核验系统生成 reviewer PDF；尚未最终提交。",
+    "situation": "Submission not completed. 2026-05-08 Indoor and Built Environment / ScholarOne draft on CDP 9344 is at Step 6 Review & Submit. The upload issue was resolved: the TeX Processor Log showed successful pdflatex compilation, the failed proof-display conversion was isolated to fig9_models.png, ScholarOne rejected fig9_models.pdf as an unsupported upload type, and fig9_models.jpg was uploaded as a Tex/LaTeX Suppl File. Step 2 then saved successfully; Step 3 keywords, Step 4 authors (Dr. Quan Wen; Wanbao Ge as Corresponding Author; Dr. Yanting Wu), and Step 5 details/policy confirmations are saved. The PDF proof was opened in the browser and shows the correct title/authors/abstract; the Submit button is enabled but was not clicked. Local package update was pushed at paper repo commit ccf1cd0. 未最终提交；IBE/ScholarOne 的 LaTeX 上传与服务器 proof 已通过，fig9 转换问题已用 JPG 支持文件解决；本地包已推送 commit ccf1cd0；现停在 Step 6 Review & Submit，等待作者最终确认/手动提交。",
     "impactSort": -1
   },
   {
@@ -42,7 +42,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-08 Disability and Rehabilitation / Taylor & Francis draft created, submissionId 264297465. Safe manuscript metadata/declarations were filled; local D&R package prepared and pushed at repo commit 8aa1fd3. File upload is blocked under the standing LaTeX-only rule because the portal requests PDF manuscript plus LaTeX Source Files ZIP rather than portal-side LaTeX compilation/validation. 已建立 D&R 草稿 264297465 并填写安全元数据，本地包 commit 8aa1fd3；因上传流程不是系统编译 LaTeX，暂停在文件上传前，未最终提交。",
+    "situation": "Blocked, not submitted. 2026-05-08 Disability and Rehabilitation / T&F draft 264297465 on CDP 9345 was rechecked. Official instructions indicate format-free submission, and the T&F portal file step requires ordinary files such as Manuscript with author details and Implications for Rehabilitation. The hidden upload input accepts many extensions including LaTeX-related files, but there is no real LaTeX compile/build/reviewer-PDF validation workflow; source ZIP upload would be an ordinary attachment/workaround. Declarations visible on the Manuscript step are filled and the local package is synced at repo commit 8aa1fd3. 未投稿；D&R/T&F 支持普通/format-free 稿件文件，但未发现合规 LaTeX 服务器编译路径，按 LaTeX-only 规则未上传 PDF/普通附件。",
     "impactSort": -1
   },
   {
@@ -65,7 +65,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Submission started (not yet completed). 2026-05-08 verified IJHCI / International Journal of Human-Computer Interaction route and Taylor & Francis draft submissionId 263362300. Title, abstract, special issue = No, human participants = No, prior-material permissions = No, and safe declaration fields were filled/saved. Local IJHCI package compiled and pushed at repo commit 507eda5. File upload is blocked under the standing LaTeX-only rule because the visible portal requires only Manuscript - with author details and Cover Letter, with no real portal-side LaTeX build/validation path. Additional blockers: required public data DOI/URL and copyright/legal acknowledgement. No files uploaded and no final submission. 已核验 IJHCI / International Journal of Human-Computer Interaction 路由，并建立 Taylor & Francis 草稿 submissionId 263362300；题名、摘要、非专刊、非人体参与者、未使用既有发表材料及安全声明字段已填写/保存。IJHCI 本地包已编译并推送至论文仓库 commit 507eda5。因门户仅显示 Manuscript - with author details 与 Cover Letter 上传项，未显示系统编译/验证 LaTeX 的真实路径，按 LaTeX-only 规则暂停在上传前；另有公开数据 DOI/URL 与 copyright/legal acknowledgement 必填阻塞。未上传文件，未最终提交。",
+    "situation": "Blocked, not submitted. 2026-05-08 International Journal of Human-Computer Interaction / T&F draft 263362300 on CDP 9343 was rechecked at the Manuscript step. Title, abstract, special issue=No, human participants=No, prior-material permissions=No, safe declaration fields, and public data policy checkboxes remain saved; local IJHCI package is synced at repo commit 507eda5. T&F guidance says LaTeX acceptance is journal-specific, while the current portal compile/PDF-preview configuration lists ordinary Word/PDF/image/text data types and no LaTeX source types. The file area only requires Manuscript with author details and Cover Letter, so no compliant LaTeX source compile/build/reviewer-PDF validation workflow was found. The public data DOI/URL field is still empty and copyright confirmation remains for the author. 未投稿；IJHCI/T&F 当前是普通稿件文件流程，不是 LaTeX 服务器编译流程；按 LaTeX-only 规则未上传 PDF/普通附件，另缺公开数据 DOI/URL 与 copyright 作者确认。",
     "impactSort": -1
   },
   {
@@ -948,7 +948,7 @@
       "Quan Wen"
     ],
     "updatedAt": "2026-05-08",
-    "situation": "Physics of Fluids / PeerX 显示 Your manuscript has been submitted；稿件追踪号 POF26-AR-07216。",
+    "situation": "2026-05-08 Physics of Fluids / PeerX 已完成初始质检返回后的修订提交；稿件追踪号 POF26-AR-07216。按编辑部要求，已在摘要和正文首次出现处定义 phase-change material (PCM) 与 COMSOL Multiphysics finite-element software package；出版方式为 Conventional Publication（无 OA 费用）；论文仓库已推送修订版 commit 9eac6b9。",
     "impactSort": 4.1
   },
   {
@@ -1280,29 +1280,6 @@
     "statusDot": "🟢",
     "status": "外审中",
     "statusOrder": 3,
-    "title": "AFLE-HIV：中国老年 HIV 感染者适老居住环境评估框架构建",
-    "journalTrack": "BMC Public Health",
-    "bg": "#e8f9ee",
-    "currentJournal": "BMC Public Health",
-    "casXr": "CAS大2小2；XR大2小2",
-    "cas": "",
-    "xr": "",
-    "jcr": "Q1",
-    "impactFactor": "3.5",
-    "indexType": "SCIE",
-    "recommendedJournals": "",
-    "authors": "Quan Wen",
-    "correspondingAuthors": [
-      "Quan Wen"
-    ],
-    "updatedAt": "2026-05-08",
-    "situation": "",
-    "impactSort": 3.5
-  },
-  {
-    "statusDot": "🟢",
-    "status": "外审中",
-    "statusOrder": 3,
     "title": "AgeFriendlyDiff：基于条件扩散的适老住宅改造三维可视化",
     "journalTrack": "Multimedia Tools and Applications",
     "bg": "#e8f9ee",
@@ -1485,5 +1462,28 @@
     "updatedAt": "2026-05-08",
     "situation": "",
     "impactSort": 3.6
+  },
+  {
+    "statusDot": "✅",
+    "status": "已接受",
+    "statusOrder": 4,
+    "title": "AFLE-HIV：中国老年 HIV 感染者适老居住环境评估框架构建",
+    "journalTrack": "BMC Public Health",
+    "bg": "#dbeafe",
+    "currentJournal": "BMC Public Health",
+    "casXr": "CAS大2小2；XR大2小2",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "3.5",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "updatedAt": "2026-05-08",
+    "situation": "2026-05-08 BMC Public Health 已接受。",
+    "impactSort": 3.5
   }
 ]
