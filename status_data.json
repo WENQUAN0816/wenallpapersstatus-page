@@ -431,6 +431,31 @@
     "statusDot": "🟡",
     "status": "内审中",
     "statusOrder": 2,
+    "title": "Multidomain ageing-burden trajectories define healthy-ageing transitions across harmonized cohorts",
+    "journalTrack": "Nature Aging (Submitted: NATAGING-A14708; 2026-06-30)",
+    "submissionSystemInfo": "Springer Nature MTS / Nature Aging；tracking number：NATAGING-A14708；2026-06-30 成功提交并确认 Manuscript approved / Submission complete。投稿系统显示名：QUAN WEN；投稿系统用户名：WENQUAN0817；投稿系统注册邮箱：wenquan6328@gmail.com；Nature Aging 账户页显示 ORCID 0009-0005-3975-8104 且为 linked；账户页 secondary email 显示 wenquan@student.usm.my；投稿系统作者（以 portal 为准）：Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；portal summary only marked Quan Wen as Corr, while the LaTeX title page marks Dr. Mazran Ismail as co-corresponding; authors otherwise match the manuscript list;上传文件：manuscript.pdf、cover_letter.pdf、reproducibility_package.zip（Additional Review Material）；未存储密码.",
+    "bg": "#fff8d9",
+    "updatedAt": "2026-06-30",
+    "currentJournal": "Nature Aging",
+    "similarity": "",
+    "casXr": "CAS大1小1；XR大1小1",
+    "cas": "",
+    "xr": "",
+    "jcr": "",
+    "impactFactor": "",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "situation": "Submission complete on 2026-06-30. Nature Aging tracking number NATAGING-A14708; portal authors match the LaTeX author list except that the portal summary only marked Quan Wen as Corr while the LaTeX title page also marks Dr. Mazran Ismail as co-corresponding; account page shows username WENQUAN0817, email wenquan6328@gmail.com, secondary email wenquan@student.usm.my, and ORCID linked.",
+    "impactSort": -1
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
     "title": "Digital-social connectedness and healthy ageing transitions in a multiple cohort study",
     "journalTrack": "Nature Communications (Rejected without external review: NCOMMS-26-049136) → npj Digital Medicine (Editorial Assessment: 4d7dc6e8-9792-4955-8464-ac87844c4abf; initial 2026-06-20; resubmitted 2026-06-23; editor confirmed 2026-06-24)",
     "submissionSystemInfo": "Springer Nature SNAPP / npj Digital Medicine；Submission ID：4d7dc6e8-9792-4955-8464-ac87844c4abf；draft/submission URL id：46fe13ad-50ce-47e4-ace0-c97a76f652f3；2026-06-20 21:45:33 Asia/Shanghai 收到 Springer Nature receipt 邮件（Gmail messageId 19ee547b345ce5ef），成功页显示 “Submission received / Thank you for submitting to npj Digital Medicine”，稿件进入 initial Technical Check；2026-06-20 21:55:08 Asia/Shanghai 收到 Research Square tracking 邮件（Gmail messageId 19ee55075d692f58）。2026-06-22 16:49 Asia/Shanghai 收到 “Re: npj Digital Medicine-Amendment required”（Gmail messageId 19eee85b3664362f），技术检查要求明确 Table Citation {4,5} 的放置位置；2026-06-23 18:29 Asia/Shanghai 已完成技术检查修正并重新提交，成功页显示 “Submission received / Thank you for submitting to npj Digital Medicine / Technical Check”；2026-06-24 14:08:44 Asia/Shanghai 编辑部回复已 moved forward for the next stage of Editorial Assessment（Gmail messageId 19ef83ecdb724afe）。上传包：NPJDM_latex_source_package.zip；supplementary_information.pdf；NPJDM_public_reproducibility_package.zip；cover_letter.pdf；revised LaTeX source package SHA256：8CE572C61D98C3EF17EC5259F099A0ADF2DB9E37F050268EF056AA37B8A21773；public reproducibility package SHA256：50E70ACCC1BCD4513A25F74E874F69D22D33DC0D5E9C4877DBFC7556C7CB240C；成功页截图：F:\\Temp\\npjdm_resubmission_success_20260623.png。历史：Nature Communications 稿号 NCOMMS-26-049136 于 2026-06-18 20:00 Asia/Shanghai 拒稿且未送外审。投稿系统账号信息（以 Springer Nature Manage your account / Linked accounts 页面为准）：显示名 QUAN WEN；注册邮箱 wenquan6328@gmail.com；收稿确认邮件收件邮箱 Dr Wen <wenquan@student.usm.my>；Google 已链接 wenquan6328@gmail.com；ORCID 未链接（Linked accounts 页面 ORCID 显示 Link）。投稿系统作者（以 SNAPP 作者页/提交表单为准）：Quan Wen（primary corresponding，wenquan@student.usm.my）；Mazran Ismail（corresponding，mazran@usm.my）；Muhammad Hafeez Abdul Nasir；Yanting Wu。投稿系统作者与 LaTeX 作者一致，未发现不一致。论文主仓 resubmission commit：60ddeee9aa58279629ab7405a9ea79025d460c09；公开数据/代码子仓 commit：b002fd72948ce71641d87d2ed42b4f41778c887f；未存储密码。",
@@ -1489,6 +1514,31 @@
     ],
     "situation": "内审中。Kingcha 2026-06-11 复核：英文题名为 “Governing Fire Resilience in High-Rise Communities for Older Residents in Hong Kong”。2026-06-06 19:23 Asia/Shanghai 收到 Humanities and Social Sciences Communications major revision 决定；2026-06-08 21:25 Asia/Shanghai 左右 SNAPP 显示 Submission received / Thank you for submitting to Humanities and Social Sciences Communications，返修稿进入 Technical Check。2026-06-09 16:30 Asia/Shanghai 收到 amendment required（Gmail messageId 19eab813b8409c55），要求修正 funding declaration；2026-06-11 12:56 Asia/Shanghai 编辑确认稿件已 moved forward for the next stage of Editorial Assessment（Gmail messageId 19eb509fae2d02f8）。当前按内审中 / Editorial Assessment 处理。",
     "impactSort": 3.6
+  },
+  {
+    "statusDot": "🟡",
+    "status": "内审中",
+    "statusOrder": 2,
+    "title": "Beyond retirement: work-role states, economic security and healthy ageing transitions across five ageing cohorts",
+    "journalTrack": "Nature Communications (Submitted / Live Manuscript: NCOMMS-26-053023; 2026-06-30)",
+    "submissionSystemInfo": "Springer Nature MTS / Nature Communications；tracking number：NCOMMS-26-053023；ms_id：747203；2026-06-30 Asia/Shanghai 最终提交成功，成功页显示 “Thank you for your submission. (NCOMMS-26-053023).”，作者主页随后显示 Live Manuscripts (1)，当前按内审中 / submitted live manuscript 跟踪。投稿系统账号信息（以 Nature Communications MTS / Springer Nature account 页面为准）：显示名 QUAN WEN；用户名 WENQUAN0817；投稿系统注册邮箱 / Current Primary Email Address：wenquan@student.usm.my；账户页 secondary email：wenquan@student.usm.my；ORCID 未绑定（账户页显示 Create/link an Open Researcher Contributor ID(ORCID)）。投稿系统作者（以 MTS submitted manuscript details page 为准）：QUAN WEN（Universiti Sains Malaysia；Corr）、Mazran Ismail（Universiti Sains Malaysia；Contrib #1）、Muhammad Hafeez Abdul Nasir（Universiti Sains Malaysia；Contrib #2）、Yanting Wu（Kaifeng Key Laboratory of Clinical Medicine；Contrib #3）、Esraa Sh. Abbaas（Qassim University；Contrib #4）。作者顺序与 LaTeX 一致；差异：MTS 摘要页省略 Dr. honorifics，并且只标记 QUAN WEN 为 Corr，LaTeX 标记 Quan Wen 和 Dr. Mazran Ismail 为通讯作者。上传文件：manuscript.pdf、cover_letter_nature_communications.pdf、manuscript_source.zip、reproducibility_package.zip、source_data.zip、reproducibility_package_summary.pdf。复现材料只包含代码、聚合输出、图表源数据、LaTeX source 和说明文件；未上传或公开再分发 CHARLS/ELSA/KLoSA/MHAS/SHARE 受限个体级原始二手数据。论文仓库：WENQUAN0816/NC04-Beyond-retirement-work-role-states-economic-security-healthy-ageing；未存储密码。",
+    "bg": "#fff8d9",
+    "updatedAt": "2026-06-30",
+    "currentJournal": "Nature Communications",
+    "similarity": "",
+    "casXr": "CAS大1小1；XR大1小1",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "18.1",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Yanting Wu；Esraa Sh. Abbaas（MTS author order matches LaTeX; MTS marks only QUAN WEN as Corr, while LaTeX marks Quan Wen and Dr. Mazran Ismail as corresponding authors）",
+    "correspondingAuthors": [
+      "Quan Wen"
+    ],
+    "situation": "内审中 / Nature Communications submitted live manuscript。2026-06-30 Asia/Shanghai 已在 Nature Communications MTS 点击最终 Approve Submission，确认框已接受；成功页显示 “Thank you for your submission. (NCOMMS-26-053023).”，稿号 NCOMMS-26-053023，MTS 作者主页显示 Live Manuscripts (1)。题名为 “Beyond retirement: work-role states, economic security and healthy ageing transitions across five ageing cohorts”。本次提交包包含主文 PDF、cover letter、LaTeX source、reproducibility package、source data zip 和 reproducibility package summary PDF；公开/可审稿复现材料限于代码、聚合输出、图表源数据和说明文件，受限个体级 cohort 数据未上传。投稿系统账户显示名 QUAN WEN，用户名 WENQUAN0817，注册邮箱 wenquan@student.usm.my，ORCID 未绑定。投稿系统作者顺序为 QUAN WEN、Mazran Ismail、Muhammad Hafeez Abdul Nasir、Yanting Wu、Esraa Sh. Abbaas；作者顺序与 LaTeX 一致，但 MTS 只显示 QUAN WEN 为 Corr，LaTeX 标记 Quan Wen 和 Dr. Mazran Ismail 为通讯作者。当前等待 Nature Communications editorial processing。",
+    "impactSort": 18.1
   },
   {
     "statusDot": "🟢",
