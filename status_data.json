@@ -430,6 +430,32 @@
     "impactSort": -1
   },
   {
+    "statusDot": "⚪",
+    "status": "待投稿",
+    "statusOrder": 0,
+    "title": "Work-role participation and healthy-ageing transitions across harmonized ageing cohorts",
+    "journalTrack": "BMC Medicine (Submission started; not final submitted; 2026-08-10)",
+    "submissionSystemInfo": "Springer Nature SNAPP / BMC Medicine；2026-08-10 Asia/Shanghai 已开始投稿，尚未最终提交。CDP 端口：9225；Chrome profile：C:\\Users\\Administrator\\.chrome-profiles\\chrome-9225-google；论文仓库：https://github.com/WENQUAN0816/NC04-Work-role-and-healthy-ageing-transitions；提交包固定于 commit 8c8f61c1fdbf97139e3510c04be05a132d8e9267；LaTeX 主稿包和模型代码包均已完成本地验证，尚未最终提交；未存储密码、cookie 或会话文件。",
+    "bg": "#f2f2f2",
+    "updatedAt": "2026-08-10",
+    "currentJournal": "BMC Medicine",
+    "similarity": "",
+    "casXr": "CAS大1小1；XR大1小1",
+    "cas": "",
+    "xr": "",
+    "jcr": "Q1",
+    "impactFactor": "8.7",
+    "indexType": "SCIE",
+    "recommendedJournals": "",
+    "authors": "Quan Wen；Mazran Ismail；Muhammad Hafeez Abdul Nasir；Nurdiana Zainol Abidin",
+    "correspondingAuthors": [
+      "Quan Wen",
+      "Nurdiana Zainol Abidin"
+    ],
+    "situation": "",
+    "impactSort": 8.7
+  },
+  {
     "statusDot": "💖",
     "status": "需修订",
     "statusOrder": 1,
